@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/shlomi-lachmish/landing.git/static/css/main.76adad00.chunk.css",
-    "main.js": "/shlomi-lachmish/landing.git/static/js/main.49afac22.chunk.js",
-    "main.js.map": "/shlomi-lachmish/landing.git/static/js/main.49afac22.chunk.js.map",
-    "runtime-main.js": "/shlomi-lachmish/landing.git/static/js/runtime-main.36c93d57.js",
-    "runtime-main.js.map": "/shlomi-lachmish/landing.git/static/js/runtime-main.36c93d57.js.map",
-    "static/js/2.d87a048c.chunk.js": "/shlomi-lachmish/landing.git/static/js/2.d87a048c.chunk.js",
-    "static/js/2.d87a048c.chunk.js.map": "/shlomi-lachmish/landing.git/static/js/2.d87a048c.chunk.js.map",
-    "index.html": "/shlomi-lachmish/landing.git/index.html",
-    "precache-manifest.e7668cedd300fe63f9fff3a20cbca544.js": "/shlomi-lachmish/landing.git/precache-manifest.e7668cedd300fe63f9fff3a20cbca544.js",
-    "service-worker.js": "/shlomi-lachmish/landing.git/service-worker.js",
-    "static/css/main.76adad00.chunk.css.map": "/shlomi-lachmish/landing.git/static/css/main.76adad00.chunk.css.map",
-    "static/js/2.d87a048c.chunk.js.LICENSE.txt": "/shlomi-lachmish/landing.git/static/js/2.d87a048c.chunk.js.LICENSE.txt"
+    "main.css": "/landing/static/css/main.76adad00.chunk.css",
+    "main.js": "/landing/static/js/main.49afac22.chunk.js",
+    "main.js.map": "/landing/static/js/main.49afac22.chunk.js.map",
+    "runtime-main.js": "/landing/static/js/runtime-main.8e076927.js",
+    "runtime-main.js.map": "/landing/static/js/runtime-main.8e076927.js.map",
+    "static/js/2.1781e64e.chunk.js": "/landing/static/js/2.1781e64e.chunk.js",
+    "static/js/2.1781e64e.chunk.js.map": "/landing/static/js/2.1781e64e.chunk.js.map",
+    "index.html": "/landing/index.html",
+    "precache-manifest.71b8af9ecd6a6621c467efc84f03bc23.js": "/landing/precache-manifest.71b8af9ecd6a6621c467efc84f03bc23.js",
+    "service-worker.js": "/landing/service-worker.js",
+    "static/css/main.76adad00.chunk.css.map": "/landing/static/css/main.76adad00.chunk.css.map",
+    "static/js/2.1781e64e.chunk.js.LICENSE.txt": "/landing/static/js/2.1781e64e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.36c93d57.js",
-    "static/js/2.d87a048c.chunk.js",
+    "static/js/runtime-main.8e076927.js",
+    "static/js/2.1781e64e.chunk.js",
     "static/css/main.76adad00.chunk.css",
     "static/js/main.49afac22.chunk.js"
   ]
